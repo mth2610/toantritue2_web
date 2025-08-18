@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "386b82c389075ba9724fb99ef8ea40bb",
+const RESOURCES = {"flutter_bootstrap.js": "e211da21b3b8d03fd1d5adca9066f139",
 "version.json": "19b524d4d487016a6a0e1dceffdd8b61",
 "index.html": "a93a8c3c5254524e4af8759c93788d72",
 "/": "a93a8c3c5254524e4af8759c93788d72",
-"main.dart.js": "6e2b7db3c28794f46bec604b083f3491",
+"main.dart.js": "bffa289a7bb0e0c0483049145d297b58",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "78a107443ebbbb22242c558da7c237eb",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -21,7 +21,7 @@ const RESOURCES = {"flutter_bootstrap.js": "386b82c389075ba9724fb99ef8ea40bb",
 "assets/AssetManifest.bin.json": "f6ba3fe5ddaa65a65fd42d7d544cdb7c",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "105bfe71da5b9578d1ae7778934d22d5",
-"assets/fonts/MaterialIcons-Regular.otf": "38e1943a8519ee804680a51085160b76",
+"assets/fonts/MaterialIcons-Regular.otf": "d4199ca58f27b0cb33d9c65be63d958f",
 "assets/assets/music/acoustic-kids-folk.mp3": "a5c5989cda11c86b29793bbb67b2809d",
 "assets/assets/music/whistle-me-happy.mp3": "4e31b82335fc94e74b4065cdddb54cf2",
 "assets/assets/music/README.md": "035041cfb2070f794172dedb2aa709b6",
