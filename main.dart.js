@@ -55679,12 +55679,12 @@ A.aVT.prototype={
 $3(a,b,c){var s,r,q,p,o=this,n=null,m="assets/images/badges/",l=b.a,k=0,j=0
 if(l==null)s=A.L("null error",n,n,n,n,n,n,n)
 else{l=l.Q
-if(l==null)s=A.xw(B.e4,new A.jn(m+o.b+"_inactive.png",n,n),n)
+if(l==null)s=A.xw(B.e4,new A.jn(m+o.b.toLowerCase()+"_inactive.png",n,n),n)
 else{r=o.c
-if(l.h(0,r)==null)s=A.xw(B.e4,new A.jn(m+o.b+"_inactive.png",n,n),n)
+if(l.h(0,r)==null)s=A.xw(B.e4,new A.jn(m+o.b.toLowerCase()+"_inactive.png",n,n),n)
 else{l=b.a.Q.h(0,r)
 l.toString
-if(l<99)s=A.xw(B.e4,new A.jn(m+o.b+"_inactive.png",n,n),n)
+if(l<99)s=A.xw(B.e4,new A.jn(m+o.b.toLowerCase()+"_inactive.png",n,n),n)
 else{if(b.a.Q.h(0,r)!=null){l=b.a.Q.h(0,r)
 l.toString
 k=l}l=b.a.as
