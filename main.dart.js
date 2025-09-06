@@ -54590,8 +54590,8 @@ h===$&&A.a()
 B.b.H(k,A.b([A.a4(f,A.bn(A.b([j,B.eI,A.bI(B.fp,i>=h?A.bP(245,156,50,1):B.ea,f,24)],n),B.k,B.u,B.aP),B.f,f,f,f,f,f,f,f,B.dF,f,f,f)],n))}B.b.H(m,A.b([A.cH(A.aX(A.b([A.a4(f,A.aX(k,B.k,B.ez,B.n),B.f,f,f,new A.c3(B.i,f,p,l,f,f,B.a5),f,f,f,f,B.eh,f,f,f)],n),B.k,B.u,B.aP),f,f),A.ag(f,20,f)],n))}p=g.a.w.length
 if(p!==0)B.b.H(m,A.b([g.afd(),A.ag(f,16,f)],n))
 if(g.a.r.length>1)B.b.H(m,A.b([g.aeR(),A.ag(f,16,f)],n))
-p=g.a.x.length
-if(p>0)B.b.H(m,A.b([g.afa(),A.ag(f,16,f)],n))
+p=g.a
+if(p.x.length>0&&p.r.length>0)B.b.H(m,A.b([g.afa(),A.ag(f,16,f)],n))
 if(g.a.f===!0)B.b.H(m,A.b([g.afg(),A.ag(f,16,f)],n))
 m.push(g.afl())
 m.push(A.ag(f,16,f))
@@ -54659,7 +54659,7 @@ q=A.b([A.H(""+q[0]+"D",m,m,m,m,r.o8(28),m,m)],k)
 p=n.as
 p===$&&A.a()
 if(B.c.n(p,"divide"))B.b.H(q,A.b([A.H(" : ",m,m,m,m,r.o8(28),m,m)],k))
-else if(B.c.n(p,l))B.b.H(q,A.b([A.H(" x ",m,m,m,m,r.o8(28),m,m)],k))
+else if(B.c.n(p,l)||B.c.n(p,"1dx1d"))B.b.H(q,A.b([A.H(" x ",m,m,m,m,r.o8(28),m,m)],k))
 else B.b.H(q,A.b([A.ag(m,m,14)],k))
 q.push(A.H(""+n.a.y[0]+"D",m,m,m,m,r.o8(28),m,m))
 B.b.H(s,q)}else{r=A.b([],k)
